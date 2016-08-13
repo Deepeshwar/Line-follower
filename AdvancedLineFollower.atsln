@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "AdvancedLineFollower", "AdvancedLineFollower\AdvancedLineFollower.cproj", "{DDEFCF91-8CB6-4FFA-9456-F21B50846960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDEFCF91-8CB6-4FFA-9456-F21B50846960}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DDEFCF91-8CB6-4FFA-9456-F21B50846960}.Debug|AVR.Build.0 = Debug|AVR
+		{DDEFCF91-8CB6-4FFA-9456-F21B50846960}.Release|AVR.ActiveCfg = Release|AVR
+		{DDEFCF91-8CB6-4FFA-9456-F21B50846960}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
